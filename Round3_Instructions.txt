@@ -1,0 +1,39 @@
+Output your answers to the following tasks to a document named Test_Round3_YourLastName.txt, and email this document in addition to your source code and executable file to Mathew Samimi (mks@nyu.edu).
+
+Deliverables: 1) Test_Round3_YourLastName.txt, 2) your source code, 3) your executable file.
+
+Description of Test_Round3.dae: This file contains the 3-dimensional information of a number of 6-sided rectangular buildings in vector representation, i.e., this file contains the location of the corners making up each building, displayed in XML format.
+
+Output the results to the following 7 Tasks to Test_Round2_YourLastName.txt. All results must be obtained from automated code developed by yourself, using your favorite programming language. In other words, you should not need to hardcode any numerical values yourself.
+
+Task 1: Output the number of buildings represented in this file. This must be done in software
+
+Task 2: Output the (x,y,z) position coordinates of each corner of each building, in units of meters (there should be 8 unique triplets for each building).
+
+Task 3: Output the (x_c,y_c,z_c) position coordinate triplet, corresponding to the center location point of a building, for each building, in units of meters.
+
+Task 4: Output the width, length, and height of each building, in units of meters.
+
+Task 5: Output the three unique surface areas describing each building, in units of square meters.
+
+Task 6: Output the volume of each building, in units of square meters.
+
+Task 7: Output the distance between the center locations of all pairs of buildings, in units of meters. For example, if N buildings are represented in the Test_Round3.dae file, there are 'N choose 2' pairs of buildings, and you should output the 'N choose 2' distances separating all pairs of buildings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

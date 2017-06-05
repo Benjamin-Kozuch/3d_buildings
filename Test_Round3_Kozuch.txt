@@ -1,0 +1,84 @@
+Task 1:
+There are 3 Buildings in this .dae file
+
+All coordinates in form (x,y,z) where z is up and x,y are the horizontal plane
+
+Task 2:
+
+Building number 1's coordinates
+(30.7210968, 24.80619118, 0.0)
+(31.7888366, 6.2729237, 0.0)
+(21.98833296, 16.07342226, 0.0)
+(40.5216106, 15.00569262, 0.0)
+(31.7888366, 6.2729237, 10.47999936)
+(21.98833296, 16.07342226, 10.47999936)
+(30.7210968, 24.80619118, 10.47999936)
+(40.5216106, 15.00569262, 10.47999936)
+
+Building number 2's coordinates
+(-25.0753753, -2.76857968, 0.0)
+(-37.1348254, -15.9757364, 0.0)
+(-40.0460464, -9.2159709, 0.0)
+(-22.16416192, -9.52834518, 0.0)
+(-40.0460464, -9.2159709, 3.22000118)
+(-37.1348254, -15.9757364, 3.22000118)
+(-25.0753753, -2.76857968, 3.22000118)
+(-22.16416192, -9.52834518, 3.22000118)
+
+Building number 3's coordinates
+(40.884602, -22.7647881, 0.0)
+(8.79460014, -33.3447898, 0.0)
+(8.79460014, -22.7647881, 0.0)
+(40.884602, -33.3447898, 0.0)
+(40.884602, -33.3447898, 28.2299918)
+(40.884602, -22.7647881, 28.2299918)
+(8.79460014, -33.3447898, 28.2299918)
+(8.79460014, -22.7647881, 28.2299918)
+
+
+Task 3:
+
+Building number 1's center coordinate
+(31.2549667, 15.53955744, 5.23999968)
+
+Building number 2's center coordinate
+(-31.10510035, -9.37215804, 1.61000059)
+
+Building number 3's center coordinate
+(24.83960107, -28.05478895, 14.1149959)
+
+
+Task 4:
+
+Building number 1's Length, width and height
+width --> 12.3499966516
+length--> 13.8600087579
+height--> 10.47999936
+Building number 2's Length, width and height
+width --> 16.2999952984
+length--> 7.35999952166
+height--> 3.22000118
+Building number 3's Length, width and height
+width --> 32.09000186
+length--> 10.5800017
+height--> 28.2299918
+
+Task 5:
+
+Building number 1's surface area
+Surface area--> 891.703803337
+Building number 2's surface area
+Surface area--> 392.306337678
+Building number 3's surface area
+Surface area--> 3088.17224967
+
+Task 6:
+
+Building number 1's volume
+volume--> 1793.87261761
+Building number 2's volume
+volume--> 386.296965032
+Building number 3's volume
+volume--> 9584.42871756
+
+Task 7:
